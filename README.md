@@ -3,7 +3,7 @@ Emails To A Young Programmer
 
 This is my humble attempt at distilling what little I know about my passion, which is programming.
 
-I copy, I type, I learn, I abstract, I design, I code. I enjoy.
+I read, I type, I learn, I abstract, I design, I code. I enjoy.
 
 Some excerpts from the ones we should truly learn from:
 
