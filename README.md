@@ -7,6 +7,11 @@ I read, I type, I learn, I abstract, I design, I code. I enjoy.
 
 Some excerpts from the ones we should truly learn from:
 
+> Letters to a young poet
+> Dear Sir,
+
+> You ask whether your verses are any good. You ask me. You have asked others before this. You send them to magazines. You compare them with other poems, and you are upset when certain editors reject your work. Now (since you have said you want my advice) I beg you to stop doing that sort of thing. You are looking outside, and that is what you should most avoid right now. No one can advise or help you - no one. There is only one thing you should do. Go into yourself. Find out the reason that commands you to write; see whether it has spread its roots into the very depths of your heart; confess to yourself whether you would have to die if you were forbidden to write.
+
 > Letter to a young programmer
 > Dear (insert name here),
 
